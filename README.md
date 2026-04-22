@@ -114,11 +114,11 @@ Track academic growth
 ☁️ Online deployment
 ## 📸 Screenshots
 
-
-```md
 ![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-![Practice Test](screenshots/test.png)
+![progress](screenshots/progress.png)
+![entrance_cheaker](screenshots/entrance_cheaker.png)
+![planner](screenshots/planner.png)
+
 👨‍💻 Author
 
 Abrham Tesfa 
