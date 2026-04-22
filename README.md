@@ -119,6 +119,17 @@ Track academic growth
 ![entrance_cheaker](screenshots/entrance_cheaker.png)
 ![planner](screenshots/planner.png)
 
+## 🌐 Live Demo
+Coming Soon
+
+## 🗺 Roadmap
+- Mobile app
+- AI assistant
+- Notifications
+
+## ⭐ Why This Project Matters
+Helping students prepare smarter.
+
 👨‍💻 Author
 
 Abrham Tesfa 
